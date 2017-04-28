@@ -5,3 +5,8 @@ change 2
 change 3
 
 change 4
+<<<<<<< HEAD
+=======
+
+change 5
+>>>>>>> bug123
